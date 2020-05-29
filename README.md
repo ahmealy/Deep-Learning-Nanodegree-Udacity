@@ -5,9 +5,10 @@ This Repo contains my journey taking the "Deep Learning Nanodegree" with Udacity
 
 ### Tutorials
 
-* [Gradient Descent](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/gradient-descent): Implementing Gradient Descent.
-* [Backpropagation](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/student-admissions): Implementing backpropagation step, scaling and one hot encoding to the data.
-
+* [Gradient Descent](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L1.Introduction-to-neural-networks/gradient-descent): Implementing Gradient Descent.
+* [Backpropagation](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L1.Introduction-to-neural-networks/student-admissions): Implementing backpropagation step, scaling and one hot encoding to the data.
+* [Gradient Descent with Mean Square Error](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L2.Implementing-gradient-descent/gradient-descent-MeanSquareError): Implementing Gradient Descent with Mean Square Error.
+* [Multilayer Perceptrons backpropagation](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L2.Implementing-gradient-descent/Multilayer-Perceptrons-backpropagation): Implementing multi layer perceptrons backpropagation.
 
 ### Projects
 
