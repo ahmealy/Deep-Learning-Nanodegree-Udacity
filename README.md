@@ -9,6 +9,8 @@ This Repo contains my journey taking the "Deep Learning Nanodegree" with Udacity
 * [Backpropagation](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L1.Introduction-to-neural-networks/student-admissions): Implementing backpropagation step, scaling and one hot encoding to the data.
 * [Gradient Descent with Mean Square Error](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L2.Implementing-gradient-descent/gradient-descent-MeanSquareError): Implementing Gradient Descent with Mean Square Error.
 * [Multilayer Perceptrons backpropagation](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L2.Implementing-gradient-descent/Multilayer-Perceptrons-backpropagation): Implementing multi layer perceptrons backpropagation.
+* [Sentiment Analysis with Numpy](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L5.Sentiment%20Analysis/sentiment-analysis-network): [Andrew Trask](http://iamtrask.github.io/) leads you through building a sentiment analysis model, predicting if some text (films review) is positive or negative.
+
 
 ### Projects
 
@@ -27,7 +29,7 @@ To install these dependencies with pip, you can issue `pip3 install -r requireme
 You can find Conda environment files for the Deep Learning program in the `environments` folder. Note that environment files are platform dependent. Versions with `tensorflow-gpu` are labeled in the filename with "GPU".
 
 
-* [Sentiment Analysis with Numpy](https://github.com/udacity/deep-learning/tree/master/sentiment-network): [Andrew Trask](http://iamtrask.github.io/) leads you through building a sentiment analysis model, predicting if some text is positive or negative.
+
 * [Intro to TensorFlow](https://github.com/udacity/deep-learning/tree/master/intro-to-tensorflow): Starting building neural networks with Tensorflow.
 * [Weight Intialization](https://github.com/udacity/deep-learning/tree/master/weight-initialization): Explore how initializing network weights affects performance.
 * [Autoencoders](https://github.com/udacity/deep-learning/tree/master/autoencoder): Build models for image compression and denoising, using feed-forward and convolution networks in TensorFlow.
