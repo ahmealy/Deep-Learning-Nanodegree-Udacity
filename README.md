@@ -10,10 +10,10 @@ This Repo contains my journey taking the "Deep Learning Nanodegree" with Udacity
 * [Gradient Descent with Mean Square Error](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L2.Implementing-gradient-descent/gradient-descent-MeanSquareError): Implementing Gradient Descent with Mean Square Error.
 * [Multilayer Perceptrons backpropagation](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L2.Implementing-gradient-descent/Multilayer-Perceptrons-backpropagation): Implementing multi layer perceptrons backpropagation.
 * [Sentiment Analysis with Numpy](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L5.Sentiment%20Analysis/sentiment-analysis-network): [Andrew Trask](http://iamtrask.github.io/) leads you through building a sentiment analysis model, predicting if some text (films review) is positive or negative.
-
+* [Deep Learning with PyTorch](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L7.Deep-Learning-with-PyTorch/intro-to-pytorch): Introduction to deep learning with PyTorch.
 
 ### Projects
-
+* [Your First Neural Network](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/Project.Predicting-Bike-Sharing-Patterns): Implement a neural network in Numpy to predict bike rentals.
 
 
 ## Dependencies
@@ -47,7 +47,7 @@ You can find Conda environment files for the Deep Learning program in the `envir
 
 ### Projects
 
-* [Your First Neural Network](https://github.com/udacity/deep-learning/tree/master/first-neural-network): Implement a neural network in Numpy to predict bike rentals.
+
 * [Image classification](https://github.com/udacity/deep-learning/tree/master/image-classification): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
 * [Text Generation](https://github.com/udacity/deep-learning/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
 * [Machine Translation](https://github.com/udacity/deep-learning/tree/master/language-translation): Train a sequence to sequence network for English to French translation (on a simple dataset)
