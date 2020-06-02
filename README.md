@@ -11,6 +11,9 @@ This Repo contains my journey taking the "Deep Learning Nanodegree" with Udacity
 * [Multilayer Perceptrons backpropagation](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L2.Implementing-gradient-descent/Multilayer-Perceptrons-backpropagation): Implementing multi layer perceptrons backpropagation.
 * [Sentiment Analysis with Numpy](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L5.Sentiment%20Analysis/sentiment-analysis-network): [Andrew Trask](http://iamtrask.github.io/) leads you through building a sentiment analysis model, predicting if some text (films review) is positive or negative.
 * [Deep Learning with PyTorch](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/L7.Deep-Learning-with-PyTorch/intro-to-pytorch): Introduction to deep learning with PyTorch.
+* [Transfer Learning (ConvNet)](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L4.Transfer-Learning/transfer-learning). In practice, most people don't train their own large networkd on huge datasets, but use pretrained networks such as VGGnet. Here you'll use VGGnet to classify images of flowers without training a network on the images themselves.
+* [Weight Intialization](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L5.Weight-Initialization/weight-initialization): Explore how initializing network weights affects performance.
+* [Autoencoders](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L6.Auto-Encoders/autoencoder): Build models for image compression and denoising, using feed-forward and convolution networks in TensorFlow.
 
 ### Projects
 * [Your First Neural Network](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/Project.Predicting-Bike-Sharing-Patterns): Implement a neural network in Numpy to predict bike rentals.
@@ -31,9 +34,7 @@ You can find Conda environment files for the Deep Learning program in the `envir
 
 
 * [Intro to TensorFlow](https://github.com/udacity/deep-learning/tree/master/intro-to-tensorflow): Starting building neural networks with Tensorflow.
-* [Weight Intialization](https://github.com/udacity/deep-learning/tree/master/weight-initialization): Explore how initializing network weights affects performance.
-* [Autoencoders](https://github.com/udacity/deep-learning/tree/master/autoencoder): Build models for image compression and denoising, using feed-forward and convolution networks in TensorFlow.
-* [Transfer Learning (ConvNet)](https://github.com/udacity/deep-learning/tree/master/transfer-learning). In practice, most people don't train their own large networkd on huge datasets, but use pretrained networks such as VGGnet. Here you'll use VGGnet to classify images of flowers without training a network on the images themselves.
+
 * [Intro to Recurrent Networks (Character-wise RNN)](https://github.com/udacity/deep-learning/tree/master/intro-to-rnns): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text.
 * [Embeddings (Word2Vec)](https://github.com/udacity/deep-learning/tree/master/embeddings): Implement the Word2Vec model to find semantic representations of words for use in natural language processing.
 * [Sentiment Analysis RNN](https://github.com/udacity/deep-learning/tree/master/sentiment-rnn): Implement a recurrent neural network that can predict if a text sample is positive or negative.
