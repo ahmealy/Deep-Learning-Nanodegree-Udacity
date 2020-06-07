@@ -14,6 +14,7 @@ This Repo contains my journey taking the "Deep Learning Nanodegree" with Udacity
 * [Transfer Learning (ConvNet)](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L4.Transfer-Learning/transfer-learning). In practice, most people don't train their own large networkd on huge datasets, but use pretrained networks such as VGGnet. Here you'll use VGGnet to classify images of flowers without training a network on the images themselves.
 * [Weight Intialization](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L5.Weight-Initialization/weight-initialization): Explore how initializing network weights affects performance.
 * [Autoencoders](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L6.Auto-Encoders/autoencoder): Build models for image compression and denoising, using feed-forward and convolution networks in TensorFlow.
+* [Style Transfer](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L7.Style-Transfer/style-transfer): Use a pre-trained network to extract content and style features from an image.
 
 ### Projects
 * [Your First Neural Network](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/Project.Predicting-Bike-Sharing-Patterns): Implement a neural network in Numpy to predict bike rentals.
