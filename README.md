@@ -16,6 +16,7 @@ This Repo contains my journey taking the "Deep Learning Nanodegree" with Udacity
 * [Autoencoders](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L6.Auto-Encoders/autoencoder): Build models for image compression and denoising, using feed-forward and convolution networks in TensorFlow.
 * [Style Transfer](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L7.Style-Transfer/style-transfer): Use a pre-trained network to extract content and style features from an image.
 * [Intro to Recurrent Networks (Time-Series Prediction)](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/4.Recurrent-Neural-Networks/L3.Implementation-of-RNN-and-LSTM/time-series): Recurrent neural networks are able to use information about the sequence of data.
+* [Intro to Recurrent Networks (Character-wise RNN)](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/4.Recurrent-Neural-Networks/L3.Implementation-of-RNN-and-LSTM/char-rnn): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text.
 
 ### Projects
 * [Your First Neural Network](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/Project.Predicting-Bike-Sharing-Patterns): Implement a neural network in Numpy to predict bike rentals.
@@ -38,7 +39,7 @@ You can find Conda environment files for the Deep Learning program in the `envir
 
 * [Intro to TensorFlow](https://github.com/udacity/deep-learning/tree/master/intro-to-tensorflow): Starting building neural networks with Tensorflow.
 
-* [Intro to Recurrent Networks (Character-wise RNN)](https://github.com/udacity/deep-learning/tree/master/intro-to-rnns): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text.
+
 * [Embeddings (Word2Vec)](https://github.com/udacity/deep-learning/tree/master/embeddings): Implement the Word2Vec model to find semantic representations of words for use in natural language processing.
 * [Sentiment Analysis RNN](https://github.com/udacity/deep-learning/tree/master/sentiment-rnn): Implement a recurrent neural network that can predict if a text sample is positive or negative.
 * [Tensorboard](https://github.com/udacity/deep-learning/tree/master/tensorboard): Use TensorBoard to visualize the network graph, as well as how parameters change through training.
