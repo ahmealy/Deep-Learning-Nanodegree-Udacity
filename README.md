@@ -15,9 +15,11 @@ This Repo contains my journey taking the "Deep Learning Nanodegree" with Udacity
 * [Weight Intialization](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L5.Weight-Initialization/weight-initialization): Explore how initializing network weights affects performance.
 * [Autoencoders](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L6.Auto-Encoders/autoencoder): Build models for image compression and denoising, using feed-forward and convolution networks in TensorFlow.
 * [Style Transfer](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/L7.Style-Transfer/style-transfer): Use a pre-trained network to extract content and style features from an image.
+* [Intro to Recurrent Networks (Time-Series Prediction)](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/4.Recurrent-Neural-Networks/L3.Implementation-of-RNN-and-LSTM/time-series): Recurrent neural networks are able to use information about the sequence of data.
 
 ### Projects
 * [Your First Neural Network](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/Project.Predicting-Bike-Sharing-Patterns): Implement a neural network in Numpy to predict bike rentals.
+* [CNN: Dog Breed Classifier](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/Project.Dog-Breed-Classifier/project-dog-classification): Build a pipeline to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
 
 ## Dependencies
