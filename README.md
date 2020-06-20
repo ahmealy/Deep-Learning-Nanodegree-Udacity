@@ -19,11 +19,12 @@ This Repo contains my journey taking the "Deep Learning Nanodegree" with Udacity
 * [Intro to Recurrent Networks (Character-wise RNN)](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/4.Recurrent-Neural-Networks/L3.Implementation-of-RNN-and-LSTM/char-rnn): Recurrent neural networks are able to use information about the sequence of data, such as the sequence of characters in text.
 * [Embeddings (Word2Vec)](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/4.Recurrent-Neural-Networks/L5.Embeddings-and-Word2Vec/word2vec-embeddings): Implement the Word2Vec model to find semantic representations of words for use in natural language processing.
 * [Sentiment Analysis RNN](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/4.Recurrent-Neural-Networks/L6.Sentiment-Prediction-RNN/sentiment-rnn): Implement a recurrent neural network that can predict if a text sample is positive or negative.
+* [Attention Basics](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/4.Recurrent-Neural-Networks/L8.Attention/attention): Will focus on implementing attention in isolation from a larger model. That's because when implementing attention in a real-world model, a lot of the focus goes into piping the data and juggling the various vectors rather than the concepts of attention themselves.
 
 ### Projects
 * [Your First Neural Network](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/2.Neural-Networks/Project.Predicting-Bike-Sharing-Patterns): Implement a neural network in Numpy to predict bike rentals.
 * [CNN: Dog Breed Classifier](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/3.Convolutional-Neural-Networks/Project.Dog-Breed-Classifier/project-dog-classification): Build a pipeline to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
-
+* [Text Generation](https://github.com/ahmealy/Deep-Learning-Nanodegree-Udacity/tree/master/4.Recurrent-Neural-Networks/Project.TV-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
 
 ## Dependencies
 
@@ -55,7 +56,7 @@ You can find Conda environment files for the Deep Learning program in the `envir
 
 
 * [Image classification](https://github.com/udacity/deep-learning/tree/master/image-classification): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
-* [Text Generation](https://github.com/udacity/deep-learning/tree/master/tv-script-generation): Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
+
 * [Machine Translation](https://github.com/udacity/deep-learning/tree/master/language-translation): Train a sequence to sequence network for English to French translation (on a simple dataset)
 * [Face Generation](https://github.com/udacity/deep-learning/tree/master/face_generation): Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
 
